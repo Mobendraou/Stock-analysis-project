@@ -1,7 +1,7 @@
 ## Stock Market Analysis and Prediction Project
 
 Project Overview
-This comprehensive stock market analysis and prediction project demonstrates advanced data analysis, machine learning, and financial domain expertise. The project analyzes historical stock data for major tech companies, performs exploratory data analysis, builds predictive models, and conducts risk assessment - all using Python, SQL, and data visualization techniques.
+This project analyzes historical stock data for major tech companies, performs EDA, builds predictive models, and conducts risk assessment.
 
 Project Structure
 ```
