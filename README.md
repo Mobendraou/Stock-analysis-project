@@ -1,6 +1,6 @@
 ## Stock Market Analysis and Prediction Project
 
-Project Overview
+
 This project analyzes historical stock data for major tech companies, performs EDA, builds predictive models, and conducts risk assessment.
 
 Project Structure
